@@ -23,7 +23,7 @@ __In this project you'll be creating an online shop of your choice!__
 
 ### Bonus
 
-1. Design the "home.html" using css and bootstrap.
+1. Design the "shop.html" using css and bootstrap.
 
 2. Add a navbar. (Use w3schools.com for help if needed)
 
